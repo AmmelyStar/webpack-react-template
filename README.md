@@ -1,6 +1,6 @@
 [УКР](#webpack-rent-ukr) | [EN](#webpack-english) | [DEU](#webpack-german)
 
-  <h1 id="webpack-ukr">webpack-frontend-template</h1>
+  <h1 id="webpack-ukr">webpack-react-template</h1>
 
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
@@ -79,11 +79,14 @@ npm start
   ________________________________________________________________________________________________________________________________
 
 
-  <h1 id="webpack-english">webpack-frontend-template</h1>
+  <h1 id="webpack-english">webpack-react-template</h1>
   
 <div>
-    <a href="https://github.com/AmmelyStar/webpack-frontend-template">
-        <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg" alt="Webpack logo">
+     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
+    </a>
+  <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="140" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" alt="React logo">
     </a>
 </div>
 <br/>
@@ -96,6 +99,7 @@ npm start
     <li>Your CSS and JS are optimized and minified</li>
     <li>Includes webpack-dev-server package - no need to constantly reload the browser</li>
     <li><a href="https://eslint.org/">ESlint</a> helps keep your code pleasant and clean</li>
+    <li>Utilizes<a href="https://eslint.org/">React</a> for developing the user interface</li>
 </ul>
 
 <h2>File Structure</h2>
@@ -145,11 +149,14 @@ npm start
 </ul>
 
   ________________________________________________________________________________________________________________________________
-  <h1 id="webpack-german">webpack-frontend-template</h1>
+  <h1 id="webpack-german">webpack-react-template</h1>
 
 <div>
-    <a href="https://github.com/AmmelyStar/webpack-frontend-template">
-        <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg" alt="Webpack Logo">
+     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
+    </a>
+  <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="140" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" alt="React logo">
     </a>
 </div>
 <br/>
@@ -162,6 +169,7 @@ npm start
     <li>Ihr CSS und JS werden optimiert und minifiziert</li>
     <li>Enthält das webpack-dev-server-Paket - kein ständiges Neuladen des Browsers erforderlich</li>
     <li><a href="https://eslint.org/">ESlint</a> sorgt dafür, dass Ihr Code angenehm und sauber bleibt</li>
+      <li>Verwendet<a href="https://eslint.org/">React</a> zur Entwicklung der Benutzeroberfläche</li>
 </ul>
 
 <h2>Dateistruktur</h2>
