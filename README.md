@@ -7,7 +7,7 @@
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
     </a>
  <a href="https://github.com/AmmelyStar/webpack-frontend-template">
-        <img width="150" height="150" src="https://iconscout.com/icon/react-2752089">
+        <img width="150" height="150" src="http://www.w3.org/2000/svg">
     </a>
 </div>
 <br/>
