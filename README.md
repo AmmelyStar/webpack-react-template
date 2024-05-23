@@ -26,26 +26,31 @@
 ## Файлова структура
 
 ```
-webpack-frontend-template
+webpack-react-template
 ├── dist
 ├── src
 │   ├── fonts
 |   ├── img
+|        ├── webpack-plain.svg
 |        ├── webpack-plain.svg
 │   ├── style
 |        ├── fonts.css
 |        ├── normalize.css
 |        ├── style.css
 │   ├── index.css
-│   ├── styles
+│   ├── index.js
 │   ├── index.html
-│ 
+|   ├── App.js
+│
+├── .babelrc
 ├── .browserslistrc
-├── .gitignore  
+├── .eslintrc.js
+├── .gitignore
+├──  .prettierrc
+├──  jest.config.js
 ├──  package.json
 ├──  README.md
-├── .gitignore
-└── webpack.config.js
+└── setupTests.js
 ```
 
 
@@ -99,30 +104,36 @@ npm start
     <li>Your CSS and JS are optimized and minified</li>
     <li>Includes webpack-dev-server package - no need to constantly reload the browser</li>
     <li><a href="https://eslint.org/">ESlint</a> helps keep your code pleasant and clean</li>
-    <li>Utilizes<a href="https://eslint.org/">React</a> for developing the user interface</li>
+    <li>Utilizes<a href="https://eslint.org/"> React</a> for developing the user interface</li>
 </ul>
 
 <h2>File Structure</h2>
 <pre>
-    webpack-frontend-template
-    ├── dist
-    ├── src
-    │   ├── fonts
-    |   ├── img
-    |   |   └── webpack-plain.svg
-    │   ├── style
-    |   |   ├── fonts.css
-    |   |   ├── normalize.css
-    |   |   ├── style.css
-    │   ├── index.css
-    │   ├── styles
-    │   └── index.html
-    ├── .browserslistrc
-    ├── .gitignore  
-    ├── package.json
-    ├── README.md
-    ├── webpack.config.js
-    └── .gitignore
+    webpack-react-template
+├── dist
+├── src
+│   ├── fonts
+|   ├── img
+|        ├── webpack-plain.svg
+|        ├── webpack-plain.svg
+│   ├── style
+|        ├── fonts.css
+|        ├── normalize.css
+|        ├── style.css
+│   ├── index.css
+│   ├── index.js
+│   ├── index.html
+|   ├── App.js
+│
+├── .babelrc
+├── .browserslistrc
+├── .eslintrc.js
+├── .gitignore
+├──  .prettierrc
+├──  jest.config.js
+├──  package.json
+├──  README.md
+└── setupTests.js
 </pre>
 
 <h2>Commands</h2>
@@ -169,30 +180,36 @@ npm start
     <li>Ihr CSS und JS werden optimiert und minifiziert</li>
     <li>Enthält das webpack-dev-server-Paket - kein ständiges Neuladen des Browsers erforderlich</li>
     <li><a href="https://eslint.org/">ESlint</a> sorgt dafür, dass Ihr Code angenehm und sauber bleibt</li>
-      <li>Verwendet<a href="https://eslint.org/">React</a> zur Entwicklung der Benutzeroberfläche</li>
+      <li>Verwendet<a href="https://eslint.org/"> React</a> zur Entwicklung der Benutzeroberfläche</li>
 </ul>
 
 <h2>Dateistruktur</h2>
 <pre>
-    webpack-frontend-template
-    ├── dist
-    ├── src
-    │   ├── fonts
-    |   ├── img
-    |   |   └── webpack-plain.svg
-    │   ├── style
-    |   |   ├── fonts.css
-    |   |   ├── normalize.css
-    |   |   ├── style.css
-    │   ├── index.css
-    │   ├── styles
-    │   └── index.html
-    ├── .browserslistrc
-    ├── .gitignore  
-    ├── package.json
-    ├── README.md
-    ├── webpack.config.js
-    └── .gitignore
+webpack-react-template
+├── dist
+├── src
+│   ├── fonts
+|   ├── img
+|        ├── webpack-plain.svg
+|        ├── webpack-plain.svg
+│   ├── style
+|        ├── fonts.css
+|        ├── normalize.css
+|        ├── style.css
+│   ├── index.css
+│   ├── index.js
+│   ├── index.html
+|   ├── App.js
+│
+├── .babelrc
+├── .browserslistrc
+├── .eslintrc.js
+├── .gitignore
+├──  .prettierrc
+├──  jest.config.js
+├──  package.json
+├──  README.md
+└── setupTests.js
 </pre>
 
 <h2>Befehle</h2>
