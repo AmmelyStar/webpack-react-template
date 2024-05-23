@@ -14,33 +14,38 @@
 <br/>
 
 
-## Build Features
+## Funktionen des Builds
 
-* Uses [Babel](https://babeljs.io/) to support modern JavaScript (ES6) in browsers
-* Choose any SASS/SCSS preprocessor you like
-* Optimizes and minifies your CSS and JS
-* Includes webpack-dev-server package - no need to constantly reload the browser
-* [ESlint](https://eslint.org/) ensures your code is pleasant and clean
-* Utilizes [React](https://react.dev/) for user interface development.
+* Verwendet [Babel](https://babeljs.io/), um modernes JavaScript (ES6) in Browsern zu unterstützen.
+* Wählen Sie einen beliebigen SASS/SCSS-Präprozessor Ihrer Wahl.
+* Optimiert und minimiert Ihren CSS- und JS-Code.
+* Enthält das webpack-dev-server-Paket - kein ständiges Neuladen des Browsers erforderlich.
+* [ESlint](https://eslint.org/) stellt sicher, dass Ihr Code angenehm und sauber ist.
+* Verwendet [React](https://react.dev/) für die Entwicklung der Benutzeroberfläche.
 
-* The project utilizes the following dependency packages:
-  * **[@babel/polyfill](https://babeljs.io/docs/en/babel-polyfill)**: Provides support for older browsers for new JavaScript features.
-  * **[@pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)**: Plugin for integrating React Refresh with Webpack, providing fast component updates without page reloads.
-  * **[@reduxjs/toolkit](https://redux-toolkit.js.org/)**: Toolkit for writing Redux logic, simplifying Redux store creation and reducer writing.
-  * **[@testing-library/jest-dom](https://github.com/testing-library/jest-dom)**: Set of matchers for use with Jest to check DOM state.
-  * **[@testing-library/react](https://testing-library.com/docs/react-testing-library/intro/)**: Library for testing React components focusing on user interaction.
-  * **[axios](https://axios-http.com/)**: Library for making HTTP requests.
-  * **[firebase](https://firebase.google.com/)**: SDK for working with Firebase, providing authentication, database, hosting, and other services.
-  * **[jest](https://jestjs.io/)**: Framework for testing JavaScript code.
-  * **[prop-types](https://www.npmjs.com/package/prop-types)**: Library for checking prop types in React components.
-  * **[react-dom](https://react.dev/)**: Package for DOM manipulation for React applications.
-  * **[react-hook-form](https://react-hook-form.com/)**: Library for working with forms in React, allowing easy handling of user input and validation.
-  * **[react-modal](https://github.com/reactjs/react-modal)**: Library for creating modal windows in React applications.
-  * **[react-redux](https://react-redux.js.org/)**: Library for integrating Redux with React.
-  * **[react-router-dom](https://reactrouter.com/)**: Library for routing in React applications.
-  * **[redux](https://redux.js.org/)**: Library for managing application state.
-  * **[styled-components](https://styled-components.com/)**: Library for styling React components using tagged template literals.
-  * **[yup](https://github.com/jquense/yup)**: Library for validating object schemas.
+* Das Projekt verwendet die folgenden Abhängigkeitspakete:
+  * **[@babel/polyfill](https://babeljs.io/docs/en/babel-polyfill)**: Bietet Unterstützung für ältere Browser für neue JavaScript-Funktionen.
+  * **[@pmmmwh/react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin)**: Plugin zur Integration von React Refresh mit Webpack, das schnelle Aktualisierungen von Komponenten ohne Neuladen der Seite ermöglicht.
+  * **[@reduxjs/toolkit](https://redux-toolkit.js.org/)**: Toolkit zum Schreiben von Redux-Logik, das die Erstellung von Redux-Stores und das Schreiben von Reduzierern vereinfacht.
+  * **[@testing-library/jest-dom](https://github.com/testing-library/jest-dom)**: Satz von Matchern zur Verwendung mit Jest, um den DOM-Zustand zu überprüfen.
+  * **[@testing-library/react](https://testing-library.com/docs/react-testing-library/intro/)**: Bibliothek zum Testen von React-Komponenten mit Schwerpunkt auf der Benutzerinteraktion.
+  * **[axios](https://axios-http.com/)**: Bibliothek zur Ausführung von HTTP-Anfragen.
+  * **[firebase](https://firebase.google.com/)**: SDK zur Arbeit mit Firebase, das Authentifizierung, Datenbank, Hosting und andere Dienste bietet.
+  * **[jest](https://jestjs.io/)**: Framework zum Testen von JavaScript-Code.
+  * **[prop-types](https://www.npmjs.com/package/prop-types)**: Bibliothek zur Überprüfung von Prop-Typen in React-Komponenten.
+  * **[react-dom](https://react.dev/)**: Paket zur DOM-Manipulation für React-Anwendungen.
+  * **[react-hook-form](https://react-hook-form.com/)**: Bibliothek zum Arbeiten mit Formularen in React, die eine einfache Handhabung der Benutzereingabe und Validierung ermöglicht.
+  * **[react-modal](https://github.com/reactjs/react-modal)**: Bibliothek zur Erstellung von Modal-Fenstern in React-Anwendungen.
+  * **[react-redux](https://react-redux.js.org/)**: Bibliothek zur Integration von Redux mit React.
+  * **[react-router-dom](https://reactrouter.com/)**: Bibliothek zur Routenführung in React-Anwendungen.
+  * **[redux](https://redux.js.org/)**: Bibliothek zur Verwaltung des Anwendungsstatus.
+  * **[styled-components](https://styled-components.com/)**: Bibliothek zur Gestaltung von React-Komponenten unter Verwendung von getaggten Template-Literalen.
+  * **[yup](https://github.com/jquense/yup)**: Bibliothek zur Validierung von Objektschemas.
+
+
+
+
+
  
     
 ## Файлова структура
