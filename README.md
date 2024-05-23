@@ -6,6 +6,9 @@
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
     </a>
+ <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="150" height="150" src="https://iconscout.com/icon/react-2752089">
+    </a>
 </div>
 <br/>
 <br/>
@@ -18,6 +21,7 @@
 * ваш CSS і JS оптимізується і мініфікується
 * встановлений пакет webpack-dev-server - вам не потрібно постійно перезавантажувати браузер
 * [ESlint](https://eslint.org/) дозволить зробити ваш код приємним і чистим
+* Використовує [React](https://react.dev/) для розробки інтерфейсу користувача.
 
 ## Файлова структура
 
